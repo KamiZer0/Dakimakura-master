@@ -15,19 +15,7 @@ header, h2, h3 {
   text-align: center;
 }
 
-.iria1{
-  display: flex;
-  margin: 30px;
-  border: 2px solid black;
-}
-
-.iria2{
-  display: flex;
-  margin: 30px;
-  border: 2px solid black;
-}
-
-.iria3{
+.iria1, .iria2, .iria3{
   display: flex;
   margin: 30px;
   border: 2px solid black;
