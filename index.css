@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+
+body{
+  background: url(sakura.png), pink;
+  font-family: 'Cinzel Decorative', cursive;
+  text-align: center;
+}
+
+.main {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.iria1{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.iria2{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.iria3{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.text1, text2, text3{
+  text-align: left;
+}
